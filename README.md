@@ -1,12 +1,10 @@
-# covid19india
-
 <p align="center">
-<img src="https://lh3.googleusercontent.com/c1R9ua5XDaInXNNYEVKs5NzwQ36gYCXi1VJ5kLRxGcDYmyUSJM3dnkzqaPWP_CniaHQbQSr4yQqxmsoEGvGFrWFnBRAVjI4=s2560" width="50%">
+<img src="https://repository-images.githubusercontent.com/247386519/67519080-8691-11ea-9481-0732fb55380b" width="100%">
 </p>
 
 <p align="center">
-  View our <a href="https://bit.ly/patientdb">live patient database</a>.
- </p>
+  Here's our data <a href="https://api.covid19india.org">API</a>.
+</p>
 
 ## Setup
 
@@ -14,10 +12,8 @@
 npm i && npm start
 ```
 
-## Maintainers
-
-- [jeremyphilemon](https://github.com/jeremyphilemon)
-
 ## Contribution
 
-If you're new to contributing to Open Source on Github, [this guide](https://guides.github.com/activities/contributing-to-open-source/) can help you get started. Please check out the contribution guide for more details on how issues and pull requests work..
+If you're new to contributing to Open Source on Github, [this guide](https://guides.github.com/activities/contributing-to-open-source/) can help you get started. Please check out the [contribution guide](CONTRIBUTING.md) for more details on how issues and pull requests work.
+
+###### This repository is just a small subset of work put together by a much larger pool of voluntary efforts contributed by generous people all around the world. Reach out to us through hello@covid19india.org
